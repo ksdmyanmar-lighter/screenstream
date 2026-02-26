@@ -1,4 +1,4 @@
-package info.dvkr.screenstream
+/*package info.dvkr.screenstream
 
 import android.os.Bundle
 import androidx.activity.result.contract.ActivityResultContracts
