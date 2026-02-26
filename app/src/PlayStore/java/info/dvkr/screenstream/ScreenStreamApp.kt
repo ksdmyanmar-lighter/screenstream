@@ -1,4 +1,4 @@
-package info.dvkr.screenstream
+/*package info.dvkr.screenstream
 
 import android.content.pm.ApplicationInfo
 import com.elvishew.xlog.LogConfiguration
