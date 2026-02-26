@@ -1,4 +1,4 @@
-package info.dvkr.screenstream
+/*package info.dvkr.screenstream
 
 import android.app.Activity
 import android.content.Context
